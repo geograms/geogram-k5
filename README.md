@@ -2,7 +2,8 @@
 
 This firmware brings **Geogram support** to the **Quansheng UV-K5 / UV-K5(8)** radio series, building on the open-source efforts of the UV-K5 firmware community. It transforms the radio into a hybrid digital/analog node capable of interacting with APRS data, NOSTR-based messaging, and Geogram BLE beacons (via Android integration).
 
-[![Watch the demo](https://img.youtube.com/vi/1AmZH70CvOg/hqdefault.jpg)](https://youtu.be/1AmZH70CvOg)
+[![Watch the demo on YouTube](https://img.youtube.com/vi/1AmZH70CvOg/maxresdefault.jpg)](https://youtu.be/1AmZH70CvOg)
+
 
 ---
 
