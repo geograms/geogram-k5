@@ -48,13 +48,21 @@ Flash using your preferred serial tool (e.g. `uvtools` or `esptool.py`).
 
 ### Docker Build (recommended for size optimization)
 
+Don't forget to make sure that docker is installed on your machine.
+
+
+[Tutorial for installing Docker](https://docs.docker.com/engine/install/)
+
+After that is done, you can run this script from the command line:
+
 ```bash
-./compile-with-docker.sh
+sudo ./compile-with-docker.sh
 ```
 
 Output will be saved in `compiled-firmware/firmware.packed.bin`
 
 > Note: follow the flashing instructions from [UV-K5 Wiki](https://github.com/ludwich66/Quansheng_UV-K5_Wiki/wiki)
+> If the command is not running on Linux, you likely need to use: chmod +x ./compile-with-docker.sh
 
 ---
 
